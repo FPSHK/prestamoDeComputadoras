@@ -1,0 +1,8 @@
+# 04 · Entrega del proyecto
+
+Usen esta lectura en la etapa 8. Entregarán la versión de la aplicación que aparece en el video. La guía detalla las [dos rúbricas](../guia/00-Guia_del_proyecto_final.md#16-dos-notas-independientes).
+
+1. **Preparen el código y la documentación.** Comprueben que el repositorio contiene el código completo y el SQL de la variante elegida. En `documentacion/`, reúnan el README del equipo, la bitácora, el registro de pruebas y el diagrama si lo presentan por separado. En el README identifiquen el equipo, la variante y cómo reproducir su instalación. [Organización de la entrega en la guía](../guia/00-Guia_del_proyecto_final.md#14-etapa-8---documentar-y-preparar-la-entrega)
+2. **Preparen la presentación.** Completen la [plantilla de PowerPoint](../plantillas/Plantilla_presentacion.pptx) y guarden su versión en `presentacion/resumen.pptx`. Graben la demostración con la aplicación en ejecución. Incluyan el video o un enlace con acceso al docente, los subtítulos revisados y la transcripción. [Guion y contenido de las diapositivas](../guia/00-Guia_del_proyecto_final.md#15-video-y-powerpoint-para-la-primera-nota)
+3. **Revisen el paquete.** Recorran la [lista de entrega](../plantillas/Lista_entrega.md), preparen el ZIP de respaldo y comprueben el acceso del docente al repositorio y al video.
+4. **Identifiquen la versión.** Completen la [ficha del equipo](../plantillas/Ficha_entrega.md) en su copia del repositorio antes del último commit. Suban los cambios a `main` y publiquen la etiqueta `v1.0-entrega`. En el espacio de entrega del curso, indiquen la URL del repositorio, la etiqueta y el SHA del commit. [Comandos para etiquetar la versión](../guia/00-Guia_del_proyecto_final.md#repositorio-github-obligatorio-y-copia-de-la-base)
